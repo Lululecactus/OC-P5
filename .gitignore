@@ -1,0 +1,22 @@
+# Environnement virtuel
+.venv/
+venv/
+ENV/
+env/
+
+# Fichiers Python et caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Fichiers système macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Configuration VS Code
+.vscode/
+
+# Fichiers d'environnement / secrets
+.env
